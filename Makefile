@@ -2,8 +2,8 @@
 VERSION = 5
 PATCHLEVEL = 10
 SUBLEVEL = 245
-EXTRAVERSION =
-NAME = Dare mighty things
+EXTRAVERSION = -ksun
+NAME = Stark Kernel
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
